@@ -14,6 +14,8 @@ public class Run {
 		
 		if ( "persona".equals(args[0]) ) {
 			System.out.println( new Reader().getPersona( args[1] ) );
+		} else if ( "group".equals(args[0]) ) {
+			System.out.println( new Reader().getGroup( args[1] ) );
 		} else {
 			err ( );
 		}
