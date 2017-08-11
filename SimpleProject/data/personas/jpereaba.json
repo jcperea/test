@@ -3,6 +3,10 @@
 	"xisname": "xIS16808",
 	"lotusname": "jpereaba",
 	"description": "Esto es una descripción",
+<<<<<<< a2a1f4555515f63407953acf4e170a1c90273435
 	"skills": [ "blabla", "y más blah", "y otro blahsdfsdfsd" ],
 	"address": "home2"
+=======
+	"skills": [ "blabla", "y más blah", "y otro blahsdfsdfsdfsdfsdee" ]
+>>>>>>> commit d ejose
 }
